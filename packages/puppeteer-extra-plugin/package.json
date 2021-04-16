@@ -64,7 +64,7 @@
   "dependencies": {
     "@types/debug": "^4.1.0",
     "debug": "^4.1.1",
-    "merge-deep": "^3.0.1"
+    "merge-deep": "github:godtoy/merge-deep#master"
   },
   "peerDependencies": {
     "puppeteer-extra": "*"
